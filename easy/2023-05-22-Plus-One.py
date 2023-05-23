@@ -5,7 +5,6 @@ class PlusOne:
         for s in string:
             ret.append(s)
         return ret
-    
 
 plus_one = PlusOne()
 list = [9]
